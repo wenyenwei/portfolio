@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 List of my side projects.
 
 ### Python
