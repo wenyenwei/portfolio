@@ -10,7 +10,7 @@ List of my side projects.
 ### Ruby on Rails
 + [Internship - Company Website](https://github.com/ConnectAU/connect-rails)
 + [Internship - Company Web App Product](https://github.com/ConnectAU/connectapp)
-+ [Mock Up CRM Ticket Lists - HTTP request from Zendesk API with Authentication/ Unit Testing/ Error Handling](https://github.com/wenyenwei/zd_)
++ [Mock Up CRM Ticket Lists - HTTP request from Zendesk API with Authentication/ Unit Testing/ Error Handling/ Support Mobile View](https://github.com/wenyenwei/zd_)
 + [Stock Tracker](https://github.com/wenyenwei/stocker_ror)
 
 ### Node.js
