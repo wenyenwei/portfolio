@@ -7,6 +7,11 @@ List of my side projects.
 + [Deep Learning - Natural Language Processing: Chatbot (Data processing part)](https://github.com/wenyenwei/nlpchatbot)
 + [PyGame - Snake Game](https://github.com/wenyenwei/pygame_snake)
 
+### Ruby on Rails
++ [Internship - Company Website](https://github.com/ConnectAU/connect-rails)
++ [Internship - Company Web App Product](https://github.com/ConnectAU/connectapp)
++ [Mock Up CRM Ticket Lists - HTTP request from Zendesk API with Authentication/ Unit Testing/ Error Handling](https://github.com/wenyenwei/zd_)
++ [Stock Tracker](https://github.com/wenyenwei/stocker_ror)
 
 ### Node.js
 + [Auto Web Crawling of Lottery Data - Selenium Web Driver](https://github.com/wenyenwei/webcraw)
@@ -19,11 +24,6 @@ List of my side projects.
 + [Survey App](https://github.com/wenyenwei/SurveyApp)
 + [To-do List](https://github.com/wenyenwei/react_todolist)
 + [Pick Pokemon](https://github.com/wenyenwei/pick-pokemon)
-
-### Ruby on Rails
-+ [Internship - Company Website](https://github.com/ConnectAU/connect-rails)
-+ [Internship - Company Web App Product](https://github.com/ConnectAU/connectapp)
-+ [Stock Tracker](https://github.com/wenyenwei/stocker_ror)
 
 ### Java
 + [Java Assignment - Stone game](https://github.com/wenyenwei/java_assignment)
