@@ -28,3 +28,6 @@ List of my side projects.
 
 ### Java
 + [Java Assignment - Stone game](https://github.com/wenyenwei/java_assignment)
+
+### C#
++ [Stone Game battle with computer](https://github.com/wenyenwei/c-stonegame)
