@@ -4,6 +4,7 @@ List of my side projects.
 ### Python
 + [Machine Learning - Natural Language Processing: SMS Spam detector, Text Sentiment classifier](https://github.com/wenyenwei/mlnlp)
 + [Machine Learning - CNN: Hand written digits recognization](https://github.com/wenyenwei/handwritting_app_ml_swift)
++ [Object Oriented Programming - Stone Game with Unit testing](https://github.com/wenyenwei/PythonOOP_StoneGame)
 + [Deep Learning - Natural Language Processing: Chatbot (Data processing part)](https://github.com/wenyenwei/nlpchatbot)
 + [OpenCV/Django - Face Detection App using using Haar Cascades](https://github.com/wenyenwei/opencv_django/)
 + [PyGame - Snake Game](https://github.com/wenyenwei/pygame_snake)
