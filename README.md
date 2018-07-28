@@ -7,6 +7,7 @@ List of my side projects.
 + [Object Oriented Programming - Stone Game with Unit testing](https://github.com/wenyenwei/PythonOOP_StoneGame)
 + [Deep Learning - Natural Language Processing: Chatbot (Data processing part)](https://github.com/wenyenwei/nlpchatbot)
 + [OpenCV/Django - Face Detection App using using Haar Cascades](https://github.com/wenyenwei/opencv_django/)
++ [OpenCV - Harry Potter Face Recognition - Gryffindor entrance guard Fat Lady simulator](https://github.com/wenyenwei/openCV_face_detection_harry_potter/)
 + [PyGame - Snake Game](https://github.com/wenyenwei/pygame_snake)
 
 ### Ruby on Rails
