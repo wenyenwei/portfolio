@@ -31,6 +31,7 @@ List of my side projects.
 
 ### Java
 + [Java Assignment - Stone game](https://github.com/wenyenwei/java_assignment)
++ [Distributed System Project - Concurrently Editable Dictionary](https://github.com/wenyenwei/ds_ass1)
 
 ### C#
 + [Stone Game battle with computer](https://github.com/wenyenwei/c-stonegame)
