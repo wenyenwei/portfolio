@@ -2,7 +2,7 @@
 List of my side projects.
 
 ### Python
-+ [Artificial Intelligence - Pacman Autonomy with TD Reinforcement Learning and Weight Approximation](https://github.com/wenyenwei/AI-pacman)
++ [Artificial Intelligence - Pacman Autonomy with TD Reinforcement Learning and Weight Approximation (UCBerkeley Pacman Tournament)](https://github.com/wenyenwei/AI-pacman)
 + [Machine Learning - Natural Language Processing: SMS Spam detector, Text Sentiment classifier](https://github.com/wenyenwei/mlnlp)
 + [Machine Learning - CNN: Hand written digits recognization](https://github.com/wenyenwei/handwritting_app_ml_swift)
 + [Object Oriented Programming - Stone Game with Unit testing](https://github.com/wenyenwei/PythonOOP_StoneGame)
