@@ -25,6 +25,7 @@ List of my side projects.
 + [Intership - CRM Chatbot Web App](https://github.com/wenyenwei/shield)
 
 ### React.js
++ [Internship - Company Learning Center using React and Redux]()
 + [Survey App - React Router/ Redux/ Async-Await](https://github.com/wenyenwei/SurveyApp)
 + [To-do List - React with AJAX](https://github.com/wenyenwei/react_todolist)
 + [ConnectApp - Online learning platform UX Prototype](https://github.com/wenyenwei/ConnectApp)
