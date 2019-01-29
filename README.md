@@ -2,6 +2,7 @@
 List of my side projects.
 
 ### Python
++ [Graduate Computing Project: Tensorflow + NLP - Predict Stock Price with News and S&P 500 Data](https://github.com/wenyenwei/tensorflow-stock-news/)
 + [Artificial Intelligence - Pacman Autonomy with TD Reinforcement Learning and Weight Approximation (UCBerkeley Pacman Tournament)](https://github.com/wenyenwei/AI-pacman)
 + [Machine Learning - Natural Language Processing: SMS Spam detector, Text Sentiment classifier](https://github.com/wenyenwei/mlnlp)
 + [Machine Learning - CNN: Hand written digits recognization](https://github.com/wenyenwei/handwritting_app_ml_swift)
@@ -10,6 +11,9 @@ List of my side projects.
 + [OpenCV/Django - Face Detection App using using Haar Cascades](https://github.com/wenyenwei/opencv_django/)
 + [OpenCV - Harry Potter Face Recognition - Gryffindor entrance guard Fat Lady simulator](https://github.com/wenyenwei/openCV_face_detection_harry_potter/)
 + [PyGame - Snake Game](https://github.com/wenyenwei/pygame_snake)
+
+### Elixir
++ [Internship - Debug Error Filtering App]()
 
 ### Ruby on Rails
 + [Internship - Company Website](https://github.com/ConnectAU/connect-rails)
@@ -25,6 +29,7 @@ List of my side projects.
 + [Intership - CRM Chatbot Web App](https://github.com/wenyenwei/shield)
 
 ### React.js
++ [Internship - Guided Tour using React, GraphQL, and Jest Testing]()
 + [Internship - Company Learning Center using React and Redux]()
 + [Survey App - React Router/ Redux/ Async-Await](https://github.com/wenyenwei/SurveyApp)
 + [To-do List - React with AJAX](https://github.com/wenyenwei/react_todolist)
