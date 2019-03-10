@@ -5,6 +5,7 @@ List of my side projects.
 + [Graduate Computing Project: Tensorflow + NLP - Predict Stock Price with News and S&P 500 Data](https://github.com/wenyenwei/tensorflow-stock-news/)
 + [Artificial Intelligence - Pacman Autonomy with TD Reinforcement Learning and Weight Approximation (UCBerkeley Pacman Tournament)](https://github.com/wenyenwei/AI-pacman)
 + [Machine Learning - Natural Language Processing: SMS Spam detector, Text Sentiment classifier](https://github.com/wenyenwei/mlnlp)
++ [Trading Bot - Jane Street Hackathon - Rank 6th (private repo)]()
 + [Machine Learning - CNN: Hand written digits recognization](https://github.com/wenyenwei/handwritting_app_ml_swift)
 + [Object Oriented Programming - Stone Game with Unit testing](https://github.com/wenyenwei/PythonOOP_StoneGame)
 + [Deep Learning - Natural Language Processing: Chatbot (Data processing part)](https://github.com/wenyenwei/nlpchatbot)
