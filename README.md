@@ -22,20 +22,20 @@ List of my side projects.
 + [Mock Up CRM Ticket Lists - HTTP request from Zendesk API with Authentication/ Unit Testing/ Error Handling/ Support Mobile View](https://github.com/wenyenwei/zd_)
 + [Stock Tracker](https://github.com/wenyenwei/stocker_ror)
 
+### React.js
++ [Internship - Guided Tour and Layouts feature using React(hook), GraphQL, and Jest Testing]()
++ [Internship - Company Learning Center using React and Redux]()
++ [Survey App - React Router/ Redux/ Async-Await](https://github.com/wenyenwei/SurveyApp)
++ [To-do List - React with AJAX](https://github.com/wenyenwei/react_todolist)
++ [ConnectApp - Online learning platform UX Prototype](https://github.com/wenyenwei/ConnectApp)
++ [Pick Pokemon](https://github.com/wenyenwei/pick-pokemon)
+
 ### Node.js
 + [Auto Web Crawling of Lottery Data - Selenium Web Driver](https://github.com/wenyenwei/webcraw)
 + [MongoDB API](https://github.com/wenyenwei/nodejs_mongodb_api)
 + [Auto Web Crawling of Lottery Data - Selenium Web Driver](https://github.com/wenyenwei/webcraw)
 + [Hi Mate - Web App with RESTful/ Authentication/ Authorization](https://github.com/wenyenwei/hi_mate)
 + [Intership - CRM Chatbot Web App](https://github.com/wenyenwei/shield)
-
-### React.js
-+ [Internship - Guided Tour using React, GraphQL, and Jest Testing]()
-+ [Internship - Company Learning Center using React and Redux]()
-+ [Survey App - React Router/ Redux/ Async-Await](https://github.com/wenyenwei/SurveyApp)
-+ [To-do List - React with AJAX](https://github.com/wenyenwei/react_todolist)
-+ [ConnectApp - Online learning platform UX Prototype](https://github.com/wenyenwei/ConnectApp)
-+ [Pick Pokemon](https://github.com/wenyenwei/pick-pokemon)
 
 ### Java
 + [Java Assignment - Stone game](https://github.com/wenyenwei/java_assignment)
