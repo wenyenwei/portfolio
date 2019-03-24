@@ -13,8 +13,8 @@ List of my side projects.
 + [OpenCV - Harry Potter Face Recognition - Gryffindor entrance guard Fat Lady simulator](https://github.com/wenyenwei/openCV_face_detection_harry_potter/)
 + [PyGame - Snake Game](https://github.com/wenyenwei/pygame_snake)
 
-### Elixir
-+ [Internship - Debug Error Filtering App]()
+### Haskell
++ [Uni Projects](https://github.com/wenyenwei/Haskell_uni_projects)
 
 ### Ruby on Rails
 + [Internship - Company Website](https://github.com/ConnectAU/connect-rails)
