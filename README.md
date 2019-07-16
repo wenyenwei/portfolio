@@ -22,7 +22,7 @@ List of my side projects.
 + [Stock Tracker](https://github.com/wenyenwei/stocker_ror)
 
 ### Python
-+ [Graduate Computing Project: Tensorflow + NLP - Predict Stock Price with News and S&P 500 Data](https://github.com/wenyenwei/tensorflow-stock-news/)
++ [Graduate Computing Project: Tensorflow + NLP - Predict Stock Price with News and S&P 500 Data](https://drive.google.com/file/d/1iLDYNiabTysET_YxzdqUceMfhN0E1UOe/view?usp=sharing) (code will be available shortly)
 + [Artificial Intelligence - Pacman Autonomy with TD Reinforcement Learning and Weight Approximation (UCBerkeley Pacman Tournament)](https://github.com/wenyenwei/AI-pacman)
 + [Machine Learning - Natural Language Processing: SMS Spam detector, Text Sentiment classifier](https://github.com/wenyenwei/mlnlp)
 + Trading Bot - Jane Street Hackathon - Rank 6th
